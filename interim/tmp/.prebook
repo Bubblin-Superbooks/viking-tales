@@ -40,20 +40,16 @@
     "innerHtml": ""
   },
   {
-    "tag": "h4",
-    "innerHtml": "Illustrations"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "A map showing the journeys of the Vikings"
-  },
-  {
     "tag": "img",
     "innerHtml": "#Frontispiece"
   },
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/007.png"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "p",
