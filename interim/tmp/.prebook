@@ -4,16 +4,8 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/001.png"
   },
   {
-    "tag": "img",
-    "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/002.png"
-  },
-  {
     "tag": "p",
-    "innerHtml": "A map showing the journeys of the Vikings"
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/002.png\" alt> A map showing the journeys of the Vikings"
   },
   {
     "tag": "hr",
@@ -100,12 +92,24 @@
     "innerHtml": "After that many men in Iceland spent their winters in writing books. They wrote on sheepskin; vellum, we call it. Many of these old vellum books have been saved for hundreds of years, and are now in museums in Norway. Some leaves are lost, some are torn, all are yellow and crumpled. But they are precious. They tell us all that we know about that olden time. There are the very words that the men of Iceland wrote so long ago—stories of kings and of battles and of ship-sailing. Some of those old stories I have told in this book."
   },
   {
-    "tag": "p",
-    "innerHtml": "<em>PART I</em>\n\n\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/008.png\" alt>"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "<em>IN</em> NORWAY"
+    "tag": "h4",
+    "innerHtml": "Part I"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "<Em>in</em> Norway"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/008.png"
   },
   {
     "tag": "img",
@@ -116,7 +120,7 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/009.png"
   },
   {
-    "tag": "p",
+    "tag": "h3",
     "innerHtml": "The Baby"
   },
   {
@@ -176,8 +180,12 @@
     "innerHtml": "Then the woman carried the baby back to the queen's room."
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/010.png\" alt> \"I own this baby for my son. He shall be called Harald\"\n\"My lord owns him for his son,\" she said. \"And no wonder! He is perfect in every limb.\"<p></p>"
+    "tag": "img",
+    "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/010.png"
+  },
+  {
+    "tag": "p",
+    "innerHtml": "\"My lord owns him for his son,\" she said. \"And no wonder! He is perfect in every limb.\""
   },
   {
     "tag": "p",
@@ -190,6 +198,10 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/011.png"
+  },
+  {
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
     "tag": "h3",
@@ -262,14 +274,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/013.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"He threw back his cape and drew a little dagger from his belt\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -352,7 +356,11 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/015.png"
   },
   {
-    "tag": "p",
+    "tag": "hr",
+    "innerHtml": ""
+  },
+  {
+    "tag": "h3",
     "innerHtml": "Olaf's Farm"
   },
   {
@@ -454,14 +462,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/016.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"I struck my shield against the door so that it made a great clanging\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -728,12 +728,12 @@
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/017.png"
   },
   {
-    "tag": "h3",
-    "innerHtml": "Footnotes:"
-  },
-  {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/018.png"
+  },
+  {
+    "tag": "h3",
+    "innerHtml": "Footnotes:"
   },
   {
     "tag": "p",
@@ -842,14 +842,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/019.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"Then he turned to the shore and sang out loudly\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -966,14 +958,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/021.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"He drove it into the wolf's neck\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1114,14 +1098,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/023.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"I vow that I will grind my father's foes under my heel\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1381,14 +1357,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"King Haki fell dead under 'Foes'-fear'\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "So they went over all the battle-field. They put every man on his shield and carried him and laid him on a hill-top. They hung his sword over his shoulder and laid his spear by his side. So they laid all the dead together there on the hill-top. Then King Harald said, looking about:"
   },
   {
@@ -1478,14 +1446,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/027.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"I will not be his wife unless he puts all of Norway under him for my sake\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -1761,14 +1721,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Then he leaped into King Arnvid's boat\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "King Harald's ship lay prow to prow with King Arnvid's. The battle had been  going on for an hour. King Harald was still in the stern on the deck. There was a dent in his helmet where a great stone had struck. There was a gash in his shoulder where a spear had cut. But he was still fighting and laughed as he worked."
   },
   {
@@ -1890,14 +1842,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/031.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"I, Harald, King of Norway, take you Gyda, for my wife\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -2049,14 +1993,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"In Norway they left burning houses and weeping women\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "Other Norsemen went to Ireland and England and Scotland. They drew up their boats on the river banks. The people ran away before them and gathered into great armies that marched back to meet the vikings in battle. Sometimes the Norsemen lost, but oftener they won, so that they got land and lived in those countries. Their houses sat in these strange lands like warriors' camps, and the Norsemen went among their new neighbors with hanging swords and spears in hand, ever ready for fight."
   },
   {
@@ -2100,20 +2036,24 @@
     "innerHtml": "\"King Harald was that great tree,\" they said. \"The trunk was red with the blood of his many battles, but higher up the limbs were fair and green like this good time of peace. The topmost branches were white because Harald will live to be an old man. Just as that tree spread out until all of Norway was in its shade, and even more lands, so Harald is king of all this country and of the western islands. The many branches of that tree are the many sons of Harald, who shall be earls and kings in Norway, and their sons after them, for hundreds of years.\""
   },
   {
-    "tag": "p",
-    "innerHtml": "<em>PART II</em>\n\n\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/034.png\" alt>"
+    "tag": "h2",
+    "innerHtml": "Part Ii"
+  },
+  {
+    "tag": "h4",
+    "innerHtml": "West-over-seas"
   },
   {
     "tag": "p",
-    "innerHtml": "WEST-OVER-SEAS"
+    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/034.png\" alt>\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/001.png\" alt>\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/035.png\" alt>"
   },
   {
-    "tag": "blockquote",
-    "innerHtml": "<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/001.png\" alt>\n<img class=\"overlay\" width=\"100%\" height=\"100%\" src=\"https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/035.png\" alt>"
+    "tag": "hr",
+    "innerHtml": ""
   },
   {
-    "tag": "p",
-    "innerHtml": "Homes in Iceland"
+    "tag": "h3",
+    "innerHtml": "Homes In Iceland"
   },
   {
     "tag": "p",
@@ -2605,14 +2545,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Then he saw that Leif's ship was being driven afar off\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "After a day or two Ingolf said:"
   },
   {
@@ -2877,14 +2809,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"Those Icelanders clapped them on the shoulders\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "One night as he and his men sat about the long fire in the feast hall, a servant threw a great piece of wood upon the fire. It was streaked with faded paint and it showed bits of carving."
   },
   {
@@ -3009,14 +2933,6 @@
   },
   {
     "tag": "p",
-    "innerHtml": "\"He looked straight ahead of him and scowled\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
-  },
-  {
-    "tag": "p",
     "innerHtml": "\"His hands are as red as his beard,\" some said, and frowned."
   },
   {
@@ -3066,14 +2982,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/040.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"More than half the men in the hall jumped to their feet\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3210,14 +3118,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/041.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"It is a bigger boat than I ever saw before\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -3594,14 +3494,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/043.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"He pointed to the woods and laughed and rolled his eyes\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
@@ -4130,14 +4022,6 @@
   {
     "tag": "img",
     "innerHtml": "https://raw.githubusercontent.com/marvindanig/viking-tales/master/assets/images/045.png"
-  },
-  {
-    "tag": "p",
-    "innerHtml": "\"The chief held them out to Thorfinn and hugged the cloak to him\""
-  },
-  {
-    "tag": "p",
-    "innerHtml": ""
   },
   {
     "tag": "p",
